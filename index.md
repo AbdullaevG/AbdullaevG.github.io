@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+The aim for this blog is tpo make some notes in machine learning science.
+I hope this will be fun for me!!!!!!!!!
