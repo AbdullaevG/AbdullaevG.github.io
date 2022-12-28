@@ -1,3 +1,1 @@
 This post will be about linear regression.
-
-$$W = (XX^T)^{-1}YX^{T}$$
